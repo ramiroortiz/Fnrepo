@@ -1,0 +1,4 @@
+api-url: https://functions.us-ashburn-1.oci.oraclecloud.com
+oracle.compartment-id: ocid1.compartment.oc1..aaaaaaaa4yyuszk7lmt6qmn6dyjnzqeydsamppsy4lksdisjinyiwmhcvylq
+provider: oracle-cs
+registry: iad.ocir.io/ocuocictrng19/fnrepo
